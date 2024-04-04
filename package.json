@@ -15,7 +15,6 @@
   "author": "Olga Synko",
   "license": "ISC",
   "dependencies": {
-    "modern-normalize": "^2.0.0",
     "vite-plugin-full-reload": "^1.1.0",
     "vite-plugin-html-inject": "^1.1.1"
   }
