@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-",
+  "name": "chokolate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/test-vine/",
+    "build": "vite build --base=/test-vite/",
     "preview": "vite preview"
   },
   "devDependencies": {
